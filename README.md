@@ -10,7 +10,8 @@
 
 ## Introduction
 
-In this lab, you'll design and implement a Python Command-Line Interface (CLI) tool that models real-world behavior using OOP. You'll use Python's built-in `argparse` module to define commands, and object-oriented classes to manage task-related actions.
+In this lab, you'll design and implement a Python Command-Line Interface 
+(CLI) tool that models real-world behavior using OOP. You'll use Python's built-in `argparse` module to define commands, and object-oriented classes to manage task-related actions.
 
 The CLI tool will allow users to:
 
